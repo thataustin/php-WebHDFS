@@ -2,6 +2,8 @@
 
 ## Description
 
+**Note** this is a fork from simpleenergy/php-WebHDFS, created to remove static methods and make it easier to include these as services in Symfony2
+
 php-WebHDFS is a PHP client for [WebHDFS](http://hadoop.apache.org/docs/r2.0.3-alpha/hadoop-project-dist/hadoop-hdfs/WebHDFS.html).
 
 
